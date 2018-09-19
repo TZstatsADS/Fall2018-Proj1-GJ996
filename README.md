@@ -7,7 +7,7 @@
 
 Term: Fall 2018
 
-+ Projec title: Data Speaks Happiness
++ Project title: Data Speaks Happiness
 + This project is conducted by [Ghada Jerfel]
 
 + Project summary: [a short summary] This project analyses HappyDB data in order to not only determine different categories of happy moments but also understand what defines happiness for the individuals in this crowd-sourced data. This work explores the relativity of "happiness" from one person to another based on factors of age, gender, marital status and parenthood status. another
