@@ -4,8 +4,6 @@
 
 ![How relative is happiness?](https://psychconnection.files.wordpress.com/2014/06/happiness-is.jpg)
 
-### [Project Description](doc/)
-This is the first and only *individual* (as opposed to *team*) this semester. 
 
 Term: Fall 2018
 
